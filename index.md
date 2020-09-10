@@ -1,4 +1,5 @@
 ---
 layout: default
 ---
-<h1 style = 'text-align: center';> Kaijia Huang </h1>
+
+<h1 align=center> Kaijia Huang
