@@ -1,5 +1,4 @@
-# theme: jekyll-theme-cayman
-remote_theme: Huangkja/cayman
+theme: jekyll-theme-cayman
 title: Kaijia Huang
 description: Kaijia's Curriculum Vitae
 show_downloads: false
