@@ -11,14 +11,19 @@ layout: default
 
 <h1 align=center> Research Interest</h1>
 
-- Power system dynamics, stability and control, when integrating large scale of renewable sources.
+- Power system dynamics, stability and control.
+- Renewable energy source grid integration and microgrid study.
 - Applying variate of simulation techniques in terms of studying power system robustness.
 - Power system relevant data mining and machine learning application.
   
 <h1 align=center> Education</h1>
 
-- MS.c, Sustainable Energy- Study Line in Wind Energy   `2019-2021`
-
+<p style="text-align:left;">
+    - MS.c, Sustainable Energy- Study Line in Wind Energy
+    <span style="float:right;">
+        2019-2021
+    </span>
+</p>
   _Technical University of Denmark_,Denmark
   
 - MS.c, Power System Engineering  `2012-2013`
