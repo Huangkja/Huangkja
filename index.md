@@ -146,3 +146,8 @@ layout: default
 
 - R. Preece, **K. Huang**. and J. V. Milanović, "Comparison of point estimate and cumulant techniques for efficient estimation of critical oscillatory modes," 2014 IEEE PES General Meeting, Conference & Exposition, National Harbor, MD, 2014, pp. 1-5
 
+<h2 align=center>Personal Interest</h2>
+
+I am an amateur badmintion player and I like outdoor walking. :smiley_cat:
+
+Besides, I like rouge-like and metroidvania PC games. :smiley_cat:
