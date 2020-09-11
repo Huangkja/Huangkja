@@ -24,7 +24,6 @@ layout: default
 
 - Power system relevant data mining and machine learning application.
 
-
 <h1 align=center> Education</h1>
 
 <p style="text-align:left;">
@@ -58,7 +57,6 @@ layout: default
     </span><br>
 <span style = "font-style: italic">North China Electric Power University</span>, China
 </p>
-
 
 <h1 align=center>Employment Experience</h1>
 
@@ -133,8 +131,7 @@ layout: default
 - Design and craft a device to hold a thermal-electric specimen.
 - Analysing and visualising measurement data.
 
-
-  <h1 align=center>Publications</h1>
+<h1 align=center>Publications</h1>
     
 - Qingqing Yang, Jianwei Li, Ricardo Santos, **Kaijia Huang**, Petar Igic "Intelligent Fault Detection and Location Scheme for MMC Multiterminal HVDC", in *High Voltage*
 
