@@ -8,6 +8,7 @@ layout: default
 - Strongly interest in renewable energy grid integration, power system stability and control.
 - Self-motivated, problem-solving and collaborative student with excellent communication skills.
 - Professional skilled in electrical engineering, experienced programming in Matlab and Python. 
+
 ----
 <h1 align=center> Research Interest</h1>
 
@@ -15,16 +16,16 @@ layout: default
 - Renewable energy source grid integration and microgrid study.
 - Applying variate of simulation techniques in terms of studying power system robustness.
 - Power system relevant data mining and machine learning application.
+
 ----
 <h1 align=center> Education</h1>
 
 <p style="text-align:left;">
-    MS.c, Sustainable Energy- Study Line in Wind Energy
+    MS.c, Sustainable Energy (Wind Energy Line)
     <span style="float:right;">
         2019-2021
     </span>
 </p>
-
  _Technical University of Denmark_ ,Denmark
   
 <p style="text-align:left;">
@@ -33,7 +34,6 @@ layout: default
         2012-2013
     </span>
 </p>
-
  _The University of Manchester_,UK
  
 <p style="text-align:left;">
@@ -42,7 +42,6 @@ layout: default
    2010-2012     
     </span>
 </p>
-
  _Cardiff University_,UK
   
 <p style="text-align:left;">
@@ -51,8 +50,8 @@ layout: default
    2008-2010     
     </span>
 </p>
-
 _North China Electric Power University_,China
+
 ----
 <h1 align=center>Employment Experience</h1>
 
@@ -68,6 +67,7 @@ _North China Electric Power University_,China
   - Reviewing, clarifying and negotiating technical documents from vendors and fabricators.
   - Managing interfaces with shareholders, vendors, the other disciplines and project managers.
   - Support sales team, site engineers to ensure the project delivery quality and time of launching.
+  
 ----
 <h1 align=center>Technical Skills</h1>
 
@@ -75,6 +75,7 @@ Electrical Engineering: Power system analysis and simulation;Wind power grid int
 IT: Matlab/Simulink, PSCAD, RSCAD, WASP, Python(Computation/Data Science Application)
 Electronic Lab: Breadboard circuit assembling, soldering, handling oscilloscopes, Labview, etc.
 Wind Energy: Modelling wind-wave impacted aerodynamics and structure dynamics of wind turbine and its foundation.
+
 ----
 <h1 align=center>Research Experience</h1>
 
@@ -105,6 +106,7 @@ Wind Energy: Modelling wind-wave impacted aerodynamics and structure dynamics of
 - Conducting measurement in electronic lab
 - Design and craft a device to hold a thermal-electric specimen.
 - Analysing and visualising measurement data.
+
 ----  
   <h1 align=center>Publications</h1>
     
