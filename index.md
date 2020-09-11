@@ -141,13 +141,12 @@ layout: default
 - Jia. Li, **K. Huang**, "Analysis of In-phase Grounding Fault Between Two Points in Resonant Grounding System", in *Research & Design of Nuclear Engineering*, issue 4, pp.200-205, May. 2016 (In Chinese language)
 
 - R. Preece, **K. Huang**  and J. V. Milanović, "Probabilistic Small-Disturbance Stability Assessment of Uncertain Power Systems Using Efficient Estimation Methods," in *IEEE Transactions on Power Systems*, vol. 29, no. 5, pp. 2509-2517, Sept. 2014
-  - Main Contribution: Comparison study on the Monte Carlo Method, Two Point Estimate method, Gram Charlier method and Probability Collocation Method in terms of efficiency and compatibility.
-
+	<!-- - Main Contribution: Comparison study on the Monte Carlo Method, Two Point Estimate method, Gram Charlier method and Probability Collocation Method in terms of efficiency and compatibility. -->
 
 - R. Preece, **K. Huang**. and J. V. Milanović, "Comparison of point estimate and cumulant techniques for efficient estimation of critical oscillatory modes," 2014 IEEE PES General Meeting, Conference & Exposition, National Harbor, MD, 2014, pp. 1-5
 
 <h2 align=center>Personal Interest</h2>
 
-I am an amateur badmintion player and I like outdoor walking. :smiley_cat:
+I am an amateur badmintion player and I like outdoor walking.
 
-Besides, I like rouge-like and metroidvania PC games. :smiley_cat:
+Besides, I like rouge-like and metroidvania PC games.
