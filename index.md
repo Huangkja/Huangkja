@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1 align=center> Summary</h1>
+<h1 align=center>Summary</h1>
 
 - 6 years electrical design experience in nuclear power industry. 
 
@@ -14,7 +14,7 @@ layout: default
 
 ----
 
-<h1 align=center> Research Interest</h1>
+<h1 align=center>Research Interest</h1>
 
 - Power system dynamics, stability and control.
 
@@ -24,7 +24,7 @@ layout: default
 
 - Power system relevant data mining and machine learning application.
 
-<h1 align=center> Education</h1>
+<h1 align=center>Education</h1>
 
 <p style="text-align:left;">
     MS.c, Sustainable Energy (Wind Energy Line)
