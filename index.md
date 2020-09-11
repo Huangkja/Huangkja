@@ -24,9 +24,9 @@ layout: default
     MS.c, Sustainable Energy (Wind Energy Line)
     <span style="float:right;">
         2019-2021
-    </span>
+    </span><br>
+<span style = "font-style: italic">Technical University of Denmark</span>,Denmark    
 </p>
- _Technical University of Denmark_ ,Denmark
   
 <p style="text-align:left;">
    MS.c, Power System Engineering
