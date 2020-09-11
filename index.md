@@ -10,6 +10,7 @@ layout: default
 - Professional skilled in electrical engineering, experienced programming in Matlab and Python. 
 
 ----
+
 <h1 align=center> Research Interest</h1>
 
 - Power system dynamics, stability and control.
@@ -18,6 +19,7 @@ layout: default
 - Power system relevant data mining and machine learning application.
 
 ----
+
 <h1 align=center> Education</h1>
 
 <p style="text-align:left;">
@@ -32,34 +34,35 @@ layout: default
    MS.c, Power System Engineering
     <span style="float:right;">
         2012-2013
-    </span>
+    </span><br>
+<span style = "font-style: italic">The University of Manchester</span>,UK 
 </p>
- _The University of Manchester_,UK
- 
+
 <p style="text-align:left;">
    BEng, Electrical and Electronic Engineering
     <span style="float:right;">
    2010-2012     
-    </span>
+    </span><br>
+<span style = "font-style: italic">Cardiff University</span>,UK
 </p>
- _Cardiff University_,UK
-  
+   
 <p style="text-align:left;">
    Bachelor, Electrical Engineering and Automation
     <span style="float:right;">
    2008-2010     
-    </span>
+    </span><br>
+<span style = "font-style: italic">North China Electric Power University</span>,China
 </p>
-_North China Electric Power University_,China
 
 ----
+
 <h1 align=center>Employment Experience</h1>
 
 <p style="text-align:left;">
    China Nuclear Power Engineering co. ltd
     <span style="float:right;">
    2013 - 2019  
-    </span>
+    </span>	
 </p>
    
   - Expertise in designing, troubleshooting, updating the electrical power systems for HPR1000 nuclear power plants. Prepare engineering documents.
@@ -69,29 +72,31 @@ _North China Electric Power University_,China
   - Support sales team, site engineers to ensure the project delivery quality and time of launching.
   
 ----
+
 <h1 align=center>Technical Skills</h1>
 
-Electrical Engineering: Power system analysis and simulation;Wind power grid integration
-IT: Matlab/Simulink, PSCAD, RSCAD, WASP, Python(Computation/Data Science Application)
-Electronic Lab: Breadboard circuit assembling, soldering, handling oscilloscopes, Labview, etc.
-Wind Energy: Modelling wind-wave impacted aerodynamics and structure dynamics of wind turbine and its foundation.
+**Electrical Engineering**: Power system analysis and simulation;Wind power grid integration
+**IT**: Matlab/Simulink, PSCAD, RSCAD, WASP, Python(Computation/Data Science Application)
+**Electronic Lab**: Breadboard circuit assembling, soldering, handling oscilloscopes, Labview, etc.
+**Wind Energy**: Modelling wind-wave impacted aerodynamics and structure dynamics of wind turbine and its foundation.
 
 ----
+
 <h1 align=center>Research Experience</h1>
 
-*MSc Courseworks*
-<p style="text-align:left;"> Technical University of Denmark <span style="float:right;">Sept 2019 - present </span> </p>
+**MSc Courseworks**
+<p style="text-align:left;font-style: italic"> Technical University of Denmark <span style="float:right;">Sept 2019 - present </span> </p>
 
   - Use RSCAD and RTDS hardware to preform power system dynamic study and HITL test.
   - Model wind-wave climate and its aerodynamics on wind turbine structure with Matlab.
   
-*Nuclear Power Plant Nuclear Island Electrical Design Optimisation*
+**Nuclear Power Plant Nuclear Island Electrical Design Optimisation**
 <p style="text-align:left;"> China Nuclear Power Engineering co. ltd <span style="float:right;">2017</span> </p>
 
   - Nuclear island junction boxes design optimisation
   - Nuclear island electrical equipment seismic fragility assessment (joint Simpson Gumpertz & Heger)
   
-*Identification of Probabilistic Distribution of Electromechanical Modes*
+**Identification of Probabilistic Distribution of Electromechanical Modes**
 <p style="text-align:left;"> The University of Manchester <span style="float:right;">2013</span> </p>
 
 - MS.c Thesis supervised by Prof. Jovica V. Milanović.
@@ -99,7 +104,7 @@ Wind Energy: Modelling wind-wave impacted aerodynamics and structure dynamics of
 - Small signal stability analysis with Matlab and 'Matpower' package.
 - Processing simulation data; mathematical model regression.
 	
-*Comparative study of I-V measurements based on current source technique and voltage source technique*
+**Comparative study of I-V measurements based on current source technique and voltage source technique**
 <p style="text-align:left;"> Cardiff University <span style="float:right;">2012</span> </p>
 
 - Bachelor Project supervised by Prof. Gao Min
