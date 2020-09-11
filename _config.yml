@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
-title: Kaijia Huang
-description: Kaijia's Curriculum Vitae
-show_downloads: false
+title: Kaijia Huang CV
+description: MS.c in Sustainable Energy - Wind Energy
+show_downloads: true
 github:
   is_project_page: false
+  zip_url: https://raw.githubusercontent.com/Huangkja/real_kaijiaCV/master/CV_Kaijia.pdf
+  my_email: s192125@student.dtu.dk
