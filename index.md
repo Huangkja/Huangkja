@@ -24,23 +24,45 @@ layout: default
         2019-2021
     </span>
 </p>
-  _Technical University of Denmark_,Denmark
-  
-- MS.c, Power System Engineering  `2012-2013`
 
-  _The University of Manchester_,UK
+ _Technical University of Denmark_ ,Denmark
   
-- BEng, Electrical and Electronic Engineering  `2010-2012`
+<p style="text-align:left;">
+   MS.c, Power System Engineering
+    <span style="float:right;">
+        2012-2013
+    </span>
+</p>
 
-  _Cardiff University_,UK
+ _The University of Manchester_,UK
+ 
+ <p style="text-align:left;">
+   BEng, Electrical and Electronic Engineering
+    <span style="float:right;">
+   2010-2012     
+    </span>
+</p>
+
+ _Cardiff University_,UK
   
-- Bachelor, Electrical Engineering and Automation  `2008-2010`
+   <p style="text-align:left;">
+   Bachelor, Electrical Engineering and Automation
+    <span style="float:right;">
+   2008-2010     
+    </span>
+   </p>
 
-  _North China Electric Power University_,China
+_North China Electric Power University_,China
 
 <h1 align=center>Employment Experience</h1>
 
-- China Nuclear Power Engineering co. ltd `2013 - 2019`
+- <p style="text-align:left;">
+   China Nuclear Power Engineering co. ltd
+    <span style="float:right;">
+   2013 - 2019  
+    </span>
+  </p>
+   
   - Expertise in designing, troubleshooting, updating the electrical power systems for HPR1000 nuclear power plants. Prepare engineering documents.
   -  Conduct detail design of cable works, load lists, switchboards, junction cabinets and control scheme, diesel generator sets, transformer and protective devices, layout plan, etc.
   - Reviewing, clarifying and negotiating technical documents from vendors and fabricators.
@@ -80,5 +102,5 @@ layout: default
 - Jia. Li, **K. Huang**, "Analysis of In-phase Grounding Fault Between Two Points in Resonant Grounding System", in *Research \& Design of Nuclear Engineering*, issue 4, pp.200-205, May. 2016 (In Chinese language)
 - R. Preece, **K. Huang**  and J. V. Milanović, "Probabilistic Small-Disturbance Stability Assessment of Uncertain Power Systems Using Efficient Estimation Methods," in *IEEE Transactions on Power Systems*, vol. 29, no. 5, pp. 2509-2517, Sept. 2014
   - Main Contribution: Comparison study on the Monte Carlo (MC), Two Point Estimate method, Gram Charlier method and Probability Collocation Method (PCM) in terms of efficiency and compatibility.
-- R. Preece, **K. Huang**. and J. V. Milanović, "Comparison of point estimate and cumulant techniques for efficient estimation of critical oscillatory modes," 2014 IEEE PES General Meeting | Conference \& Exposition, National Harbor, MD, 2014, pp. 1-5
+- R. Preece, **K. Huang**. and J. V. Milanović, "Comparison of point estimate and cumulant techniques for efficient estimation of critical oscillatory modes," 2014 IEEE PES General Meeting| Conference $\&$ Exposition, National Harbor, MD, 2014, pp. 1-5
 
