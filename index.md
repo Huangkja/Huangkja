@@ -146,4 +146,4 @@ layout: default
 
 I am an amateur badmintion player and I like outdoor walking.
 
-Besides, I like rouge-like and metroidvania PC games.
+Besides, I like rogue-like and metroidvania PC games.
