@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 title: Kaijia Huang CV
 description: MS.c in Sustainable Energy - Wind Energy
 show_downloads: true
+google_analytics: UA-178259566-1
 github:
   is_project_page: false
   zip_url: https://raw.githubusercontent.com/Huangkja/real_kaijiaCV/master/CV_Kaijia.pdf
