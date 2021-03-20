@@ -95,10 +95,10 @@ layout: default
 
 <p style="text-align:left">
 <span style="font-weight:bold"> Advanced Condition Monitoring and Data-based Maintenance of HV-cable systems in Offshore Windfarm export systems</span>
-<span style="font-weight:bold"> Ongoing MSc Thesis </span> 
 <span style="float:right;">Feb 2021 - present </span><br>
 <span style="font-style:italic">Technical University of Denmark & Ørsted Wind Power A/S </span>
 </p>
+
 
  - Study of condition-based maintenance on subsea cable.
  - Study of electrical system of offshore susbtation for wind farms.
@@ -129,7 +129,6 @@ layout: default
 <span style="font-style:italic">The University of Manchester</span>
 </p>
 
-- MS.c Thesis supervised by Prof. Jovica V. Milanović.
 - Comparison study on numerical and analytical methods on probabilistic power system eigenmodes estimation.
 - Small-signal stability analysis with Matlab and `Matpower` package.
 - Processing simulation data; mathematical model regression.
@@ -140,7 +139,6 @@ layout: default
 <span style="font-style:italic">Cardiff University</span>
 </p>
 
-- Bachelor Project supervised by Prof. Gao Min
 - Conducting measurement in electronic lab
 - Design and craft a device to hold a thermal-electric specimen.
 - Analysing and visualising measurement data.
