@@ -4,13 +4,15 @@ layout: default
 
 <h1 align=center>Summary</h1>
 
-- 6 years electrical design experience in nuclear power industry. 
+- 6 years electrical design experience in nuclear power industry, specialising in 380V AC auxiliary systems study.
 
 - Strongly interest in renewable energy grid integration, power system stability and control.
 
 - Self-motivated, problem-solving and collaborative student with excellent communication skills.
 
-- Professional skilled in electrical engineering, experienced programming in Matlab and Python. 
+- Professional skilled in electrical engineering, experienced programming in Matlab and Python.
+
+- Interest in electrical system design, plant operations and maintenance.
 
 ----
 
@@ -80,9 +82,9 @@ layout: default
 
 <h1 align=center>Technical Skills</h1>
 
-**Electrical Engineering**: Power system analysis and simulation;Wind power grid integration.
+**Electrical Engineering**: Power system analysis, simulation and design; Wind power grid integration; LV auxiliary power system study.
 
-**IT**: Matlab/Simulink, PSCAD, RSCAD, WAsP, AutoCad, Python(Computation/Data Science Application).
+**IT**: Matlab/Simulink, PSCAD, RSCAD, WAsP, AutoCad, Python(Computation/Data Science Application), MS Office 365, basic VBA.
 
 **Electronic Lab**: Breadboard circuit assembling, soldering, handling oscilloscopes, Labview, etc.
 
@@ -90,6 +92,18 @@ layout: default
 
 <!-- Research Experience -->
 <h1 align=center>Research Experience</h1>
+
+<p style="text-align:left">
+<span style="font-weight:bold"> Advanced Condition Monitoring and Data-based Maintenance of HV-cable systems in Offshore Windfarm export systems</span>
+<span style="font-weight:bold"> Ongoing MSc Thesis </span> 
+<span style="float:right;">Feb 2021 - present </span><br>
+<span style="font-style:italic">Technical University of Denmark & Ørsted Wind Power A/S </span>
+</p>
+
+ - Study of condition-based maintenance on subsea cable.
+ - Study of electrical system of offshore susbtation for wind farms.
+ - Distributed temperature sensing data usage and analysis.
+ - Data-driven decision making of maintenance strategies.
 
 <p style="text-align:left">
 <span style="font-weight:bold"> MSc Courseworks </span> 
