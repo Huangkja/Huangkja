@@ -4,21 +4,21 @@ layout: default
 
 <h1 align=center>Summary</h1>
 
-- 6 years electrical design experience in nuclear power industry, specialising in 380V AC auxiliary systems study.
+- I have 6 years electrical design experience in nuclear power industry, specialising in 380V AC auxiliary systems study.
 
-- Strongly interest in renewable energy grid integration, power system stability and control.
+- I have strongly interest in renewable energy grid integration, power system stability and control. That's why I decided to move to Denmark to study wind enrgy.
 
-- Self-motivated, problem-solving and collaborative student with excellent communication skills.
+- I am a self-motivated, problem-solving and collaborative person with excellent communication skills:)
 
 - Professional skilled in electrical engineering, experienced programming in Matlab and Python.
 
-- Interest in electrical system design, plant operations and maintenance.
+- Also, I am interest in electrical system design, plant operations and maintenance.
 
 ----
 
 <h1 align=center>Research Interest</h1>
 
-- Power system dynamics, stability and control.
+- Power system design, dynamics, stability and control.
 
 - Renewable energy source grid integration and microgrid study.
 
@@ -29,7 +29,7 @@ layout: default
 <h1 align=center>Education</h1>
 
 <p style="text-align:left;">
-    MS.c, Sustainable Energy (Wind Energy Line)
+    MS.c, Sustainable Energy (Study Line in Wind Energy)
     <span style="float:right;">
         2019-2021
     </span><br>
@@ -84,7 +84,7 @@ layout: default
 
 **Electrical Engineering**: Power system analysis, simulation and design; Wind power grid integration; LV auxiliary power system study.
 
-**IT**: Matlab/Simulink, PSCAD, RSCAD, WAsP, AutoCad, Python(Computation/Data Science Application), MS Office 365, basic VBA.
+**IT**: Matlab/Simulink, PSCAD, RSCAD, WAsP, AutoCad, Python(Computation/Data Science Application), MS Office 365, basic VBA, Siemens Teamcenter.
 
 **Electronic Lab**: Breadboard circuit assembling, soldering, handling oscilloscopes, Labview, etc.
 
@@ -156,6 +156,4 @@ layout: default
 
 <h2 align=center>Personal Interest</h2>
 
-I am an amateur badmintion player and I like outdoor walking.
-
-Besides, I like rogue-like and metroidvania PC games.
+- I love playing badminton! I have been playing badminton for more than 20 years. I really enjoy the time on the court. After my daughter is borned, I spend every second of my spare time with her and I have no time for badminton:)
