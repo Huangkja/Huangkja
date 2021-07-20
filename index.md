@@ -4,19 +4,21 @@ layout: default
 
 <h1 align=center>Summary</h1>
 
-- I have 6 years electrical design experience in nuclear power industry, specialising in 380V AC auxiliary systems study.
+- I have 6 years electrical design experience in nuclear power industry, specialising in auxiliary power systems.
 
-- I have strongly interest in renewable energy grid integration, power system stability and control. That's why I decided to move to Denmark to study wind enrgy.
+- I want to start my career in Denmark, in the field of sustainable energy and production.
 
-- I am a self-motivated, problem-solving and collaborative person with excellent communication skills:)
+- I am a self-motivated, problem-solving and collaborative person with team spirit.
 
 - Professional skilled in electrical engineering, experienced programming in Matlab and Python.
 
-- Also, I am interest in electrical system design, plant operations and maintenance.
+- Also, I am interest in electrical power system design, power plant operations and maintenance.
 
 ----
 
 <h1 align=center>Research Interest</h1>
+
+- Factory process automation design
 
 - Power system design, dynamics, stability and control.
 
