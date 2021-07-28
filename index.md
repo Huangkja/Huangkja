@@ -71,15 +71,14 @@ layout: default
     </span>	
 </p>
    
-  - Expertise in designing, troubleshooting, updating the electrical power systems for HPR1000 nuclear power plants. Prepare engineering documents.
-  
-  - Conduct detail design of cable works, load lists, switchboards, junction cabinets and control scheme, diesel generator sets, transformer and protective devices, layout plan, etc.
-  
-  - Reviewing, clarifying and negotiating technical documents from vendors and fabricators.
-  
-  - Managing interfaces with shareholders, vendors, the other disciplines and project managers.
-  
-  - Support sales team, site engineers to ensure the project delivery quality and time of launching.
+ - Electrical cable sizing, transformer sizing, switchgear selection, protection scheme design, power distribution detail design, of auxiliaries systems.  
+- participating in the comprehensive engineering pipeline negotiations, seismic qualification of electrical equipment, cabling scheme review, SAT, FAT, NCR documents review, handling lesson-learn notes.
+- reviewing designs and equipment supplier technical proposals and ensuring the suitability of technical solutions across relevant GB/IEC standards.
+- managing interfaces, working closely with different internal teams and provide technical support regarding 380VAC power supplied devices, the P&ID diagrams, DCS details.
+
+- preparing and maintaining technical documents, generic technical requirements, and technical notes.
+- providing technical support to relevant department in the early development phases and bid processes of a project, ensuring high quality standards.
+- providing technical support to site engineers and construction team in the installation phases, handling conflicts.
   
 
 <h1 align=center>Technical Skills</h1>
