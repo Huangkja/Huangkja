@@ -14,7 +14,7 @@ layout: default
 
 <h1 align=center>Employment Experience</h1>
 
-<p style="text-align:left;font-weight:bold;color: #11497b">
+<p style="text-align:left;font-weight:bold;color: #11497b;font-size:1.5em">
    Grundfos A/S
     <span style="float:right;">
     Since Oct-2021 
@@ -25,7 +25,7 @@ layout: default
 - place holder
 - place holeer
 
-<p style="text-align:left;">
+<p style="text-align:left;font-size:1.5em">
    China Nuclear Power Engineering co. ltd
     <span style="float:right;">
    2013 - 2019  
