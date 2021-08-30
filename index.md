@@ -14,22 +14,23 @@ layout: default
 
 <h1 align=center>Employment Experience</h1>
 
-<p style="text-align:left;font-weight:bold;color: #11497b;font-size:1.5em">
-   Grundfos A/S
-    <span style="float:right;">
-    Since Oct-2021 
-    </span>	
+<p style="text-align: left; font-weight: bold; color: #11497b; font-size: 1.3em;">
+	Grundfos A/S 
+	<br />
+<span style="font-size: 0.9em">Senior Electrical Engineer</span>
+<span style="float: right;font-size: 0.9em"> Since Oct-2021 </span>
 </p>
+
 
 - Place holder
 - place holder
 - place holeer
 
-<p style="text-align:left;font-size:1.5em">
-   China Nuclear Power Engineering co. ltd
-    <span style="float:right;">
-   2013 - 2019  
-    </span>	
+<p style="text-align: left; font-weight: bold; font-size: 1.3em;">
+	China Nuclear Power Engineering co. ltd 
+	<br />
+<span style="font-size: 0.9em">Electrical Engineer</span>
+<span style="float: right;font-size: 0.9em"> 2013 - 2019 </span>
 </p>
    
 - Electrical cable sizing, transformer sizing, switchgear selection, protection scheme design, power distribution detail design, of auxiliaries systems.  
@@ -53,15 +54,15 @@ layout: default
 
 <h1 align=center>Education</h1>
 
-<p style="text-align:left;">
+<p style="text-align:left;color: #990000;font-weight:bold">
     MS.c, Sustainable Energy (Study Line in Wind Energy)
     <span style="float:right;">
         2019-2021
     </span><br>
-<span style = "font-style: italic">Technical University of Denmark</span>, Denmark    
+<span style = "font-style: italic;">Technical University of Denmark</span>, Denmark    
 </p>
   
-<p style="text-align:left;">
+<p style="text-align:left;color: #6b2c91;font-weight:bold">
    MS.c, Power System Engineering
     <span style="float:right;">
         2012-2013
@@ -69,7 +70,7 @@ layout: default
 <span style = "font-style: italic">The University of Manchester</span>, UK 
 </p>
 
-<p style="text-align:left;">
+<p style="text-align:left;color: #d4374a;font-weight:bold">
    BEng, Electrical and Electronic Engineering
     <span style="float:right;">
    2010-2012     
@@ -77,7 +78,7 @@ layout: default
 <span style = "font-style: italic">Cardiff University</span>, UK
 </p>
    
-<p style="text-align:left;">
+<p style="text-align:left;color: #005da3;font-weight:bold">
    Bachelor, Electrical Engineering and Automation
     <span style="float:right;">
    2008-2010     
