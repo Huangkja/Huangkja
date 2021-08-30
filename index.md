@@ -4,15 +4,11 @@ layout: default
 
 <h1 align=center>Summary</h1>
 
-- I have 6 years electrical design experience in nuclear power industry, specialising in auxiliary power systems.
-
-- I want to start my career in Denmark, in the field of sustainable energy and production.
-
+- An electrical engineer starting a new adventure in Danish munufacturing industry. 
+- - I have 6 years electrical design experience in nuclear power industry, specialising in auxiliary power systems.
 - I am a self-motivated, problem-solving and collaborative person with team spirit.
-
 - Professional skilled in electrical engineering, experienced programming in Matlab and Python.
-
-- Also, I am interest in electrical power system design, power plant operations and maintenance.
+- Also, father of two sweet children.
 
 ----
 
@@ -22,11 +18,41 @@ layout: default
 
 - Power system design, dynamics, stability and control.
 
-- Renewable energy source grid integration and microgrid study.
 
-- Applying variate of simulation techniques in terms of studying power system robustness.
+<h1 align=center>Employment Experience</h1>
 
-- Power system relevant data mining and machine learning application.
+<p style="text-align:left;">
+   Grundfos A/S
+    <span style="float:right;">
+    From Oct-2021 
+    </span>	
+</p>
+
+<p style="text-align:left;">
+   China Nuclear Power Engineering co. ltd
+    <span style="float:right;">
+   2013 - 2019  
+    </span>	
+</p>
+   
+- Electrical cable sizing, transformer sizing, switchgear selection, protection scheme design, power distribution detail design, of auxiliaries systems.  
+- Participating in the comprehensive engineering pipeline negotiations, seismic qualification of electrical equipment, cabling scheme review, SAT, FAT, NCR documents review, handling lesson-learn notes.
+- Reviewing designs and equipment supplier technical proposals and ensuring the suitability of technical solutions across relevant GB/IEC standards.
+- Managing interfaces, working closely with different internal teams and provide technical support regarding 380VAC power supplied devices, the P&ID diagrams, DCS details.
+- Preparing and maintaining technical documents, generic technical requirements, and technical notes.
+- Providing technical support to relevant department in the early development phases and bid processes of a project, ensuring high quality standards.
+- Providing technical support to site engineers and construction team in the installation phases, handling conflicts.
+  
+
+<h1 align=center>Technical Skills</h1>
+
+**Electrical Engineering**: PLC programming; Power system analysis, simulation and design; Wind power grid integration; LV auxiliary power system study; LV panels.
+
+**Tools**: Eplan, SeeElectrical, ETap, Matlab/Simulink, PSCAD, RSCAD, AutoCad, Python(Computation/Data Science Application), MS Office 365, basic VBA, Siemens Teamcenter.
+
+**Electronic Lab**: Breadboard circuit assembling, soldering, handling oscilloscopes, Labview, etc.
+
+**Wind Energy**: Modelling wind-wave impacted aerodynamics and structure dynamics of wind turbine and its foundation.
 
 <h1 align=center>Education</h1>
 
@@ -61,35 +87,6 @@ layout: default
     </span><br>
 <span style = "font-style: italic">North China Electric Power University</span>, China
 </p>
-
-<h1 align=center>Employment Experience</h1>
-
-<p style="text-align:left;">
-   China Nuclear Power Engineering co. ltd
-    <span style="float:right;">
-   2013 - 2019  
-    </span>	
-</p>
-   
- - Electrical cable sizing, transformer sizing, switchgear selection, protection scheme design, power distribution detail design, of auxiliaries systems.  
-- participating in the comprehensive engineering pipeline negotiations, seismic qualification of electrical equipment, cabling scheme review, SAT, FAT, NCR documents review, handling lesson-learn notes.
-- reviewing designs and equipment supplier technical proposals and ensuring the suitability of technical solutions across relevant GB/IEC standards.
-- managing interfaces, working closely with different internal teams and provide technical support regarding 380VAC power supplied devices, the P&ID diagrams, DCS details.
-
-- preparing and maintaining technical documents, generic technical requirements, and technical notes.
-- providing technical support to relevant department in the early development phases and bid processes of a project, ensuring high quality standards.
-- providing technical support to site engineers and construction team in the installation phases, handling conflicts.
-  
-
-<h1 align=center>Technical Skills</h1>
-
-**Electrical Engineering**: Power system analysis, simulation and design; Wind power grid integration; LV auxiliary power system study.
-
-**IT**: Matlab/Simulink, PSCAD, RSCAD, WAsP, AutoCad, Python(Computation/Data Science Application), MS Office 365, basic VBA, Siemens Teamcenter.
-
-**Electronic Lab**: Breadboard circuit assembling, soldering, handling oscilloscopes, Labview, etc.
-
-**Wind Energy**: Modelling wind-wave impacted aerodynamics and structure dynamics of wind turbine and its foundation.
 
 <!-- Research Experience -->
 <h1 align=center>Research Experience</h1>
