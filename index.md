@@ -5,28 +5,25 @@ layout: default
 <h1 align=center>Summary</h1>
 
 - An electrical engineer starting a new adventure in Danish munufacturing industry. 
-- - I have 6 years electrical design experience in nuclear power industry, specialising in auxiliary power systems.
+- I have 6 years electrical design experience in nuclear power industry, specialising in auxiliary power systems.
 - I am a self-motivated, problem-solving and collaborative person with team spirit.
 - Professional skilled in electrical engineering, experienced programming in Matlab and Python.
 - Also, father of two sweet children.
 
 ----
 
-<h1 align=center>Research Interest</h1>
-
-- Factory process automation design
-
-- Power system design, dynamics, stability and control.
-
-
 <h1 align=center>Employment Experience</h1>
 
-<p style="text-align:left;">
+<p style="text-align:left;font-weight:bold;color: #11497b">
    Grundfos A/S
     <span style="float:right;">
-    From Oct-2021 
+    Since Oct-2021 
     </span>	
 </p>
+
+- Place holder
+- place holder
+- place holeer
 
 <p style="text-align:left;">
    China Nuclear Power Engineering co. ltd
