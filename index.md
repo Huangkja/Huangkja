@@ -45,6 +45,8 @@ layout: default
 
 <h1 align=center>Technical Skills</h1>
 
+**Pump Test**: Pump test methodologies, equipment, documentations.
+
 **Electrical Engineering**: PLC programming; Power system analysis, simulation and design; Wind power grid integration; LV auxiliary power system study; LV panels.
 
 **Tools**: Eplan, SeeElectrical, ETap, Matlab/Simulink, PSCAD, RSCAD, AutoCad, Python(Computation/Data Science Application), MS Office 365, basic VBA, Siemens Teamcenter.
