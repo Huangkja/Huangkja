@@ -14,7 +14,7 @@ layout: default
 
 <h1 align=center>Employment Experience</h1>
 
-<p style="text-align: left; font-weight: bold; color: #11497b; font-size: 1.3em;">
+<p style="text-align: left; font-weight: bold; font-size: 1.3em;">
 	Grundfos A/S 
 	<br />
 <span style="font-size: 0.9em">Senior Electrical Engineer</span>
@@ -54,7 +54,7 @@ layout: default
 
 <h1 align=center>Education</h1>
 
-<p style="text-align:left;color: #990000;font-weight:bold">
+<p style="text-align:left;font-weight:bold">
     MS.c, Sustainable Energy (Study Line in Wind Energy)
     <span style="float:right;">
         2019-2021
@@ -62,7 +62,7 @@ layout: default
 <span style = "font-style: italic;">Technical University of Denmark</span>, Denmark    
 </p>
   
-<p style="text-align:left;color: #6b2c91;font-weight:bold">
+<p style="text-align:left;font-weight:bold">
    MS.c, Power System Engineering
     <span style="float:right;">
         2012-2013
@@ -70,7 +70,7 @@ layout: default
 <span style = "font-style: italic">The University of Manchester</span>, UK 
 </p>
 
-<p style="text-align:left;color: #d4374a;font-weight:bold">
+<p style="text-align:left;font-weight:bold">
    BEng, Electrical and Electronic Engineering
     <span style="float:right;">
    2010-2012     
