@@ -22,9 +22,10 @@ layout: default
 </p>
 
 
-- Place holder
-- place holder
-- place holeer
+- Pump testing equipment design, ducumentation.
+- ...
+- ...
+
 
 <p style="text-align: left; font-weight: bold; font-size: 1.3em;">
 	China Nuclear Power Engineering co. ltd 
@@ -78,7 +79,7 @@ layout: default
 <span style = "font-style: italic">Cardiff University</span>, UK
 </p>
    
-<p style="text-align:left;color: #005da3;font-weight:bold">
+<p style="text-align:left;font-weight:bold">
    Bachelor, Electrical Engineering and Automation
     <span style="float:right;">
    2008-2010     
